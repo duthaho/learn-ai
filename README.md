@@ -1,55 +1,94 @@
 # AI in Action
 
-A hands-on, module-based curriculum for backend developers learning AI engineering — from LLM fundamentals to production-ready systems.
+A hands-on curriculum for developers learning AI engineering — from zero to production.
 
-Each module includes deep technical explanations, working Python code, and exercises designed for engineers who already know how to build software and want to understand the AI layer.
+Each module has two parts:
+- **README** — deep documentation explaining concepts, mechanics, and best practices
+- **project/** — a real mini-project you build step by step
 
-## Modules
+## Roadmap
 
-| # | Topic | Description |
-|---|-------|-------------|
-| 01 | [How LLMs Work](01-how-llms-work/) | Tokens, embeddings, attention, inference mechanics |
-| 02 | [Embeddings & Vector Search](02-embeddings-vector-search/) | Embedding models, FAISS, semantic search, RAG pipeline |
-| 03 | [Tool Use / Function Calling](03-tool-use/) | Bridging LLMs to real-world actions via structured tool calls |
-| 04 | [RAG (Retrieval-Augmented Generation)](04-rag/) | Grounding LLMs in your own data with search + generate |
+### Phase 1: Foundations
+
+| # | Module | Project |
+|---|--------|---------|
+| 01 | [How LLMs Work](01-how-llms-work/) | Token Budget Calculator |
+| 02 | Prompt Engineering *(coming soon)* | |
+| 03 | Embeddings & Vector Search *(coming soon)* | |
+| 04 | The AI API Layer *(coming soon)* | |
+| 05 | Streaming & Real-Time AI *(coming soon)* | |
+
+### Phase 2: Core AI Engineering
+
+| # | Module | Project |
+|---|--------|---------|
+| 06 | Tool Use & Function Calling *(coming soon)* | |
+| 07 | RAG *(coming soon)* | |
+| 08 | Structured Output *(coming soon)* | |
+| 09 | Conversational AI & Memory *(coming soon)* | |
+| 10 | Image & Multimodal AI *(coming soon)* | |
+
+### Phase 3: Agents & Autonomy
+
+| # | Module | Project |
+|---|--------|---------|
+| 11 | Building AI Agents *(coming soon)* | |
+| 12 | Multi-Agent Systems *(coming soon)* | |
+| 13 | Workflows & Chains *(coming soon)* | |
+| 14 | AI Code Generation *(coming soon)* | |
+| 15 | Evaluation & Testing *(coming soon)* | |
+
+### Phase 4: Production AI
+
+| # | Module | Project |
+|---|--------|---------|
+| 16 | AI Safety & Guardrails *(coming soon)* | |
+| 17 | Caching & Cost Optimization *(coming soon)* | |
+| 18 | Observability & Monitoring *(coming soon)* | |
+| 19 | Advanced RAG *(coming soon)* | |
+| 20 | Deployment Patterns *(coming soon)* | |
+
+### Phase 5: Frontier & Specialization
+
+| # | Module | Project |
+|---|--------|---------|
+| 21 | AI for Frontend Developers *(coming soon)* | |
+| 22 | Voice & Audio AI *(coming soon)* | |
+| 23 | MCP — Model Context Protocol *(coming soon)* | |
+| 24 | Building AI Products *(coming soon)* | |
 
 ## Getting Started
 
 ### Prerequisites
 
 - Python 3.11+
-- An Anthropic API key (set in `.env` as `ANTHROPIC_API_KEY`)
+- An API key for at least one LLM provider
 
 ### Setup
 
 ```bash
-# Clone the repo
 git clone <repo-url> ai-in-action
 cd ai-in-action
 
-# Create a virtual environment
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
-# Install all dependencies
-cp .env.example .env      # add your API key
+cp .env.example .env       # add your API key
 pip install -r requirements.txt
-
-# Run any module
-cd 01-how-llms-work
-python app.py
 ```
 
-## Module Structure
+## Module Format
 
-Every module follows a consistent layout:
+Each module follows this structure:
 
 ```
 XX-module-name/
-├── README.md           # Deep-dive technical guide
-└── app.py              # Standalone demo
+├── README.md              # Deep documentation (concepts, diagrams, best practices)
+├── quiz.md                # Self-assessment quiz
+└── project/
+    ├── README.md          # Step-by-step build instructions
+    ├── start.py           # Starter code with TODOs — you fill these in
+    └── solution.py        # Completed reference implementation
 ```
 
-## License
-
-For personal learning use.
+Read the README to understand the concepts. Then open `project/` and build.
