@@ -22,7 +22,7 @@ Each module has two parts:
 
 | # | Module | Project |
 |---|--------|---------|
-| 06 | Tool Use & Function Calling *(coming soon)* | |
+| 06 | [Tool Use & Function Calling](06-tool-use-function-calling/) | AI Assistant with Tools |
 | 07 | RAG *(coming soon)* | |
 | 08 | Structured Output *(coming soon)* | |
 | 09 | Conversational AI & Memory *(coming soon)* | |
