@@ -13,9 +13,9 @@ Each module has two parts:
 | # | Module | Project |
 |---|--------|---------|
 | 01 | [How LLMs Work](01-how-llms-work/) | Token Budget Calculator |
-| 02 | Prompt Engineering *(coming soon)* | |
-| 03 | Embeddings & Vector Search *(coming soon)* | |
-| 04 | The AI API Layer *(coming soon)* | |
+| 02 | [Prompt Engineering](02-prompt-engineering/) | Prompt Testing Workbench |
+| 03 | [Embeddings & Vector Search](03-embeddings-vector-search/) | Semantic Search Engine |
+| 04 | [The AI API Layer](04-ai-api-layer/) | LLM API Explorer |
 | 05 | Streaming & Real-Time AI *(coming soon)* | |
 
 ### Phase 2: Core AI Engineering
