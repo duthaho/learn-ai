@@ -26,7 +26,7 @@ Each module has two parts:
 | 07 | [RAG](07-rag/) | RAG Q&A |
 | 08 | [Structured Output](08-structured-output/) | Data Extractor |
 | 09 | [Conversational AI & Memory](09-conversational-ai-memory/) | Memory Chatbot |
-| 10 | Image & Multimodal AI *(coming soon)* | |
+| 10 | [Image & Multimodal AI](10-image-multimodal-ai/) | Meme / Alt-text Generator |
 
 ### Phase 3: Agents & Autonomy
 
