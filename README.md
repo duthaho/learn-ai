@@ -34,7 +34,7 @@ Each module has two parts:
 |---|--------|---------|
 | 11 | [Building AI Agents](11-building-ai-agents/) | Research Assistant |
 | 12 | [Multi-Agent Systems](12-multi-agent-systems/) | Blog Post Writer |
-| 13 | Workflows & Chains *(coming soon)* | |
+| 13 | [Workflows & Chains](13-workflows-chains/) | Support Ticket Triage Pipeline |
 | 14 | AI Code Generation *(coming soon)* | |
 | 15 | Evaluation & Testing *(coming soon)* | |
 

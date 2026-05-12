@@ -1,0 +1,1 @@
+Your desktop app keeps crashing on startup. I'm running version 3.14.2 on Windows 11. The error message says "Failed to load module ai_core.dll — exit code 0xC000007B". Reinstalling didn't help. What should I try next?
