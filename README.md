@@ -42,7 +42,7 @@ Each module has two parts:
 
 | # | Module | Project |
 |---|--------|---------|
-| 16 | AI Safety & Guardrails *(coming soon)* | |
+| 16 | [AI Safety & Guardrails](16-ai-safety-guardrails/) | Guardrail Middleware |
 | 17 | Caching & Cost Optimization *(coming soon)* | |
 | 18 | Observability & Monitoring *(coming soon)* | |
 | 19 | Advanced RAG *(coming soon)* | |
