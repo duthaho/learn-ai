@@ -1,0 +1,20 @@
+{"input": "An absolute masterpiece. The cinematography was breathtaking and the performances were award-worthy.", "expected": {"sentiment": "positive"}, "metadata": {"id": "r01", "difficulty": "easy"}}
+{"input": "Honestly one of the best films I've seen this year. I left the theater speechless.", "expected": {"sentiment": "positive"}, "metadata": {"id": "r02", "difficulty": "easy"}}
+{"input": "Funny, heartfelt, and surprisingly thoughtful. A delight from start to finish.", "expected": {"sentiment": "positive"}, "metadata": {"id": "r03", "difficulty": "easy"}}
+{"input": "Loved every minute of it. The pacing was perfect and the script was sharp.", "expected": {"sentiment": "positive"}, "metadata": {"id": "r04", "difficulty": "easy"}}
+{"input": "A triumph of practical effects and old-school storytelling. Highly recommended.", "expected": {"sentiment": "positive"}, "metadata": {"id": "r05", "difficulty": "easy"}}
+{"input": "Started slow, but the second act paid off in spades. Glad I stuck with it.", "expected": {"sentiment": "positive"}, "metadata": {"id": "r06", "difficulty": "hard"}}
+{"input": "Not perfect, but the lead performance carried the whole thing. Worth the ticket.", "expected": {"sentiment": "positive"}, "metadata": {"id": "r07", "difficulty": "hard"}}
+{"input": "A waste of two hours. The plot made no sense and the dialogue was painful.", "expected": {"sentiment": "negative"}, "metadata": {"id": "r08", "difficulty": "easy"}}
+{"input": "I wanted to walk out halfway through. Avoid this one.", "expected": {"sentiment": "negative"}, "metadata": {"id": "r09", "difficulty": "easy"}}
+{"input": "The pacing was glacial and the ending was a complete cop-out.", "expected": {"sentiment": "negative"}, "metadata": {"id": "r10", "difficulty": "easy"}}
+{"input": "Terrible. The only thing worse than the script was the editing.", "expected": {"sentiment": "negative"}, "metadata": {"id": "r11", "difficulty": "easy"}}
+{"input": "I expected so much more. What a disappointment from a director I usually love.", "expected": {"sentiment": "negative"}, "metadata": {"id": "r12", "difficulty": "easy"}}
+{"input": "Some nice moments here and there, but mostly okay with a drag in the middle.", "expected": {"sentiment": "negative"}, "metadata": {"id": "r13", "difficulty": "hard"}}
+{"input": "The lead was great but the screenplay let everyone down. Hard pass.", "expected": {"sentiment": "negative"}, "metadata": {"id": "r14", "difficulty": "hard"}}
+{"input": "It was fine. I don't have strong feelings either way.", "expected": {"sentiment": "neutral"}, "metadata": {"id": "r15", "difficulty": "easy"}}
+{"input": "An average film. Solid execution, nothing that stays with you.", "expected": {"sentiment": "neutral"}, "metadata": {"id": "r16", "difficulty": "easy"}}
+{"input": "A perfectly serviceable two hours. Wouldn't recommend, wouldn't warn against.", "expected": {"sentiment": "neutral"}, "metadata": {"id": "r17", "difficulty": "easy"}}
+{"input": "It exists. Some scenes are good, others not. I'd probably forget I saw it in a week.", "expected": {"sentiment": "neutral"}, "metadata": {"id": "r18", "difficulty": "hard"}}
+{"input": "Half of it was great and half of it was awful. Net zero.", "expected": {"sentiment": "neutral"}, "metadata": {"id": "r19", "difficulty": "hard"}}
+{"input": "Technically accomplished but emotionally hollow. I admired it without enjoying it.", "expected": {"sentiment": "neutral"}, "metadata": {"id": "r20", "difficulty": "hard"}}
