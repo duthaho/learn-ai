@@ -1,0 +1,20 @@
+# Benchmark queries for Module 17 — Tiered Cache Wrapper.
+# Lines 1-5 prime the cache. Lines 6-10 are paraphrases of lines 1-5
+# (should produce semantic hits). Lines 11-15 are novel queries (misses).
+# Comment lines starting with # are ignored by the loader.
+
+What is the capital of France?
+Who wrote Hamlet?
+Explain what TCP/IP does in two sentences.
+What's a good way to learn Python?
+Summarize the plot of Macbeth in three sentences.
+What is the capital of France?
+Who is the author of Hamlet?
+Briefly explain TCP/IP.
+Tell me a good way to learn Python.
+Plot of Macbeth in 3 sentences please.
+What's the boiling point of water at sea level?
+Recommend three books on system design.
+Explain quantum tunneling for a high-schooler.
+Capital of France please?
+What does HTTP stand for?
