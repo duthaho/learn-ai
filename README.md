@@ -45,7 +45,7 @@ Each module has two parts:
 | 16 | [AI Safety & Guardrails](16-ai-safety-guardrails/) | Guardrail Middleware |
 | 17 | [Caching & Cost Optimization](17-caching-cost-optimization/) | Tiered Cache Wrapper |
 | 18 | [Observability & Monitoring](18-observability-monitoring/) | LLM Trace Recorder |
-| 19 | Advanced RAG *(coming soon)* | |
+| 19 | [Advanced RAG](19-advanced-rag/) | Hybrid Retrieval + Reranker |
 | 20 | Deployment Patterns *(coming soon)* | |
 
 ### Phase 5: Frontier & Specialization
