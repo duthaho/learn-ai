@@ -46,7 +46,7 @@ Each module has two parts:
 | 17 | [Caching & Cost Optimization](17-caching-cost-optimization/) | Tiered Cache Wrapper |
 | 18 | [Observability & Monitoring](18-observability-monitoring/) | LLM Trace Recorder |
 | 19 | [Advanced RAG](19-advanced-rag/) | Hybrid Retrieval + Reranker |
-| 20 | Deployment Patterns *(coming soon)* | |
+| 20 | [Deployment Patterns](20-deployment-patterns/) | Resilient LLM Wrapper |
 
 ### Phase 5: Frontier & Specialization
 
